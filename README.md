@@ -33,4 +33,4 @@ To view and run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)TawanaKaps/DummySite.git
+   git clone [https://github.com/](https://github.com/)TawanaKaps/StaticSite_Ricola.git
